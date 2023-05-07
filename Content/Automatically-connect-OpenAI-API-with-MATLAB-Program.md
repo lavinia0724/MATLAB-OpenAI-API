@@ -30,7 +30,7 @@ sendmail('<destination>@gmail.com','Introduction to Cloud Computing Homework''Th
 
 ```
 
-- 目標位址為助教的信箱: <destination>@gmail.com
+- 目標位址信箱: `<destination>@gmail.com`
 - 信件標題是: 'Introduction to Cloud Computing Homework''The attached file is my Matlab homework Code, Thanks!'
 - 信件內文為: 'See the attached files for more info.'
 - 信件附加檔案為: {'D:\Introduction_to_Cloud_Computing_Homework.docx'}
