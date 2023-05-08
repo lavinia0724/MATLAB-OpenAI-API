@@ -1,4 +1,3 @@
-```matlab=
 import matlab.net.*
 import matlab.net.http.*
 api_endpoint = "https://api.openai.com/v1/engines/davinci/completions";
@@ -27,10 +26,3 @@ myprops.setProperty('mail.smtp.socketFactory.class', 'javax.net.ssl.SSLSocketFac
 myprops.setProperty('mail.smtp.socketFactory.port', '465');
 sendmail('<destination>@gmail.com','Introduction to Cloud Computing Homework''The attached file is my Matlab homework Code, Thanks!', ...
 'See the attached files for more info.',{'D:\Introduction_to_Cloud_Computing_Homework.docx'});
-
-```
-
-- 目標位址信箱: `<destination>@gmail.com`
-- 信件標題是: 'Introduction to Cloud Computing Homework''The attached file is my Matlab homework Code, Thanks!'
-- 信件內文為: 'See the attached files for more info.'
-- 信件附加檔案為: {'D:\Introduction_to_Cloud_Computing_Homework.docx'}
