@@ -1,4 +1,4 @@
-## LAVI's MATLAB OpenAI API connect Code
+## LAVI's MATLAB OpenAI API connect Side Project
 
 ## Info
 - 利用  MATLAB  撰寫程式，使其可自動連接 OpenAI API 並進行詢問，且將收到之回應輸出成文字檔，
