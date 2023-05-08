@@ -24,5 +24,4 @@ myprops = java.lang.System.getProperties;
 myprops.setProperty('mail.smtp.auth', 'true');
 myprops.setProperty('mail.smtp.socketFactory.class', 'javax.net.ssl.SSLSocketFactory');
 myprops.setProperty('mail.smtp.socketFactory.port', '465');
-sendmail('<destination>@gmail.com','Introduction to Cloud Computing Homework''The attached file is my Matlab homework Code, Thanks!', ...
-'See the attached files for more info.',{'D:\Introduction_to_Cloud_Computing_Homework.docx'});
+sendmail('<destination>@gmail.com','Introduction to Cloud Computing Homework''The attached file is my Matlab homework Code, Thanks!', ...'See the attached files for more info.',{'D:\Introduction_to_Cloud_Computing_Homework.docx'});
