@@ -2,9 +2,9 @@
 
 ## Info
 1. 使用 MATLAB 連線 OpenAI API 進行詢問
-    > 需先至 [OpenAI API](https://platform.openai.com/account/api-keys) 註冊帳號並生成自己的 API key
+    - 需先至 [OpenAI API](https://platform.openai.com/account/api-keys) 註冊帳號並生成自己的 API key
 2. 使用 MATLAB 自動寄 Gmail 至指定收件者的信箱
-    > 自從 2022 年 5 月 30 後 Gmail 無法直接使用 SMTP 寄信，需進行二階段驗證，故要寄信的需開啟二階段驗證 + 設定應用程式密碼
+    - 自從 2022 年 5 月 30 後 Gmail 無法直接使用 SMTP 寄信，需進行二階段驗證，故要寄信的需開啟二階段驗證 + 設定應用程式密碼
 
 ## Reference
 - [Connecting to ChatGPT using API](https://www.mathworks.com/matlabcentral/answers/1894530-connecting-to-chatgpt-using-api)
