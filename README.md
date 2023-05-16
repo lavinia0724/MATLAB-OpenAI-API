@@ -1,6 +1,6 @@
 ## LAVI's automatically connect OpenAI with MATLAB Program Side Project
 
-## Info
+## Information
 1. 使用 MATLAB 連線 OpenAI API 進行詢問
     - 需先至 [OpenAI API](https://platform.openai.com/account/api-keys) 註冊帳號並生成自己的 API key
 2. 使用 MATLAB 自動寄 Gmail 至指定收件者的信箱
