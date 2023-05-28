@@ -32,6 +32,6 @@ myprops.setProperty('mail.smtp.auth', 'true');
 myprops.setProperty('mail.smtp.socketFactory.class', 'javax.net.ssl.SSLSocketFactory');
 myprops.setProperty('mail.smtp.socketFactory.port', '465');
 
-% <<destination>@gmail.com> 換成你的寄信目標
+% <destination>@gmail.com 換成你的寄信目標
 % <file path> 換成你的檔案路徑
 % sendmail('<destination>@gmail.com','Introduction to Cloud Computing Homework''The attached file is my Matlab homework Code, Thanks!', ...'See the attached files for more info.',{'<file path>'});
