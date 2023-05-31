@@ -1,4 +1,5 @@
 ## LAVI's automatically connect OpenAI with MATLAB Program Side Project
+###### tags: `Side Project` `MATLAB` `LAVI` `2023` 
 
 ## Information
 1. 使用 MATLAB 連線 OpenAI API 進行詢問
