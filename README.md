@@ -1,4 +1,4 @@
-## LAVI's connect OpenAI with MATLAB Program Side Project
+## LAVI's connect OpenAI API with MATLAB Program Side Project
 ###### tags: `Side Project` `MATLAB` `OpenAI API` `LAVI` `2023` 
 
 ## Information
