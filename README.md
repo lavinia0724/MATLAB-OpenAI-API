@@ -1,4 +1,4 @@
-## LAVI's connect OpenAI API with MATLAB Program Side Project
+## LAVI's Connect OpenAI Model with MATLAB Program and Automatically Send Gmail by SMTP Side Project
 ###### tags: `Side Project` `MATLAB` `OpenAI API` `LAVI` `2023` 
 
 ## Information
